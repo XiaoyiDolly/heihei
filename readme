@@ -4,3 +4,8 @@ cannot push???
 ERROR: Repository not found.
 fatal: The remote end hung up unexpectedly.
 ---------------------------------------------
+done! 
+$git remote -v
+display:...heihei.git [fetch]
+        ...heihei.git [push]
+Local is fine, so I recreate a repository named "heihei" and push again, done it!
